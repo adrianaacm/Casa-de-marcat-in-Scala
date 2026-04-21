@@ -1,7 +1,7 @@
 # Casa de marcat
 # proiect realizat de Calin Adriana Mihaela
 
-    In acest proiect am explorat tranzitia dintre scanarea unui cod de bare si adaugarea produsului
+In acest proiect am explorat tranzitia dintre scanarea unui cod de bare si adaugarea produsului
 aferent in cos. M-am axat atat pe citirea codului si translatarea sa in produs, cat si pe
 manipularea tabelelor care stau in spatele cosului de cumparaturi.
     Implementarea acestuia este facuta in scala, drept prilej de invatare.
@@ -9,7 +9,7 @@ manipularea tabelelor care stau in spatele cosului de cumparaturi.
 
 # Cum functioneaza?
 
-    Primim codul de bare pe care il vom decodifica. Initial avem niste bare (cele negre codifica
+Primim codul de bare pe care il vom decodifica. Initial avem niste bare (cele negre codifica
 biti de 1, iar cele albe biti de 0). Mai multe bare de aceeasi culoare, la un loc, determina o
 bara mai groasa. Secventa de 59 de bare a codului contine 95 de biti, astfel impartiti:
 
@@ -47,5 +47,5 @@ checkout.
 
 # Testare
 
-    Pentru a testa functionalitatea codului, puteti scrie in terminal "sbt test" pentru a rula
+Pentru a testa functionalitatea codului, puteti scrie in terminal "sbt test" pentru a rula
 cateva teste prestabilite.
