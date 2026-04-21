@@ -1,5 +1,5 @@
 # Casa de marcat
-# proiect realizat de Calin Adriana Mihaela
+proiect realizat de Calin Adriana Mihaela
 
 In acest proiect am explorat tranzitia dintre scanarea unui cod de bare si adaugarea produsului
 aferent in cos. M-am axat atat pe citirea codului si translatarea sa in produs, cat si pe
