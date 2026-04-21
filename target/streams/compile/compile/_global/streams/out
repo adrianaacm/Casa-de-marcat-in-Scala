@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /mnt/e/facultate/anul2/sem2/pp/scala/tema1-final/src/main/scala/shop/Commands.scala:22:49 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m22 |[0m    [33mdef[0m [36mselectRow[0m([36mt[0m: [32mTable[0m, [36mname[0m: [32mString[0m): [32mRow[0m = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                 ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                 Found:    Unit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                 Required: database.Row[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m23 |[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
